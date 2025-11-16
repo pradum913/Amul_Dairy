@@ -102,7 +102,7 @@ const Footer = () => {
             href="#"
             className="text-md mt-3 md:mt-0 hover:text-[#ffb3b3] transition-all"
           >
-            Redesigned by: Abhishek Raj Lakhera
+            Redesigned by: Pradum Pathak and Vaibhav Shukla
           </a>
         </motion.div>
       </motion.div>
